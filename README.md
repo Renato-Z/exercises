@@ -11,4 +11,4 @@ from: 浪子神剑
 
 # 历史题目
 
-https://github.com/Renato-Z/brushTopic/history/history.md
+https://github.com/Renato-Z/brushTopic/blob/master/history/history.md
