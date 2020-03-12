@@ -1,3 +1,11 @@
+### 第 5 天 (2020-03-12)
+
+1.[[html] 简述超链接 target 属性的取值和作用](https://github.com/Renato-Z/brushTopic/issues/13)
+
+2.[[css] CSS3 新增伪类有哪些并简要描述](https://github.com/Renato-Z/brushTopic/issues/14)
+
+3.[[js] 写一个把字符串大小写切换的方法](https://github.com/Renato-Z/brushTopic/issues/15)
+
 ## 第 4 天（2020-03-12）
 
 1.[[html]HTML5 的文件离线存储怎么使用，工作原理是什么？](https://github.com/Renato-Z/brushTopic/issues/10)
