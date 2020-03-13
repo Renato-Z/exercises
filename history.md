@@ -34,9 +34,9 @@
 
 1. [[html]html 的元素有什么（包含 H5）？](https://github.com/Renato-Z/brushTopic/issues/4)
 
-2. [[css] CSS3 有什么新增的特性？](https://github.com/Renato-Z/brushTopic/issues/5)
+2. [[css] CSS3 有什么新增的特性？](https://github.com/Renato-Z/brushTopic/issues/6)
 
-3. [[js] 写一个方法去掉串联中的空间](https://github.com/Renato-Z/brushTopic/issues/6)
+3. [[js] 写一个方法去掉串联中的空间](https://github.com/Renato-Z/brushTopic/issues/5)
 
 ## 第 1 天（2020-03-09）
 
