@@ -1,3 +1,13 @@
+## 第 14 天 (2020-03-23)
+
+1. [[html] 为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？？](https://github.com/Renato-Z/brushTopic/issues/42)
+
+2. [[css] position:fixed;在 ios 下无效该怎么办？](https://github.com/Renato-Z/brushTopic/issues/43)
+
+3. [[js] 什么是闭包？优缺点分别是什么？](https://github.com/Renato-Z/brushTopic/issues/44)
+
+4. [[软技能] 你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/Renato-Z/brushTopic/issues/45)
+
 ## 第 13 天 (2020-03-23)
 
 1. [[html] html5 中的 form 怎么关闭自动完成？](https://github.com/Renato-Z/brushTopic/issues/38)
