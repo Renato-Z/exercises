@@ -1,3 +1,13 @@
+## 第 12 天 (2020-03-23)
+
+1. [[html] 常见的浏览器内核都有哪些？并介绍下你对内核的理解](https://github.com/Renato-Z/brushTopic/issues/34)
+
+2. [[css] 说说你对 css 盒子模型的理解](https://github.com/Renato-Z/brushTopic/issues/35)
+
+3. [[js] 写一个获取当前 url 查询字符串中的参数的方法](https://github.com/Renato-Z/brushTopic/issues/36)
+
+4. [[软技能] 网页应用从服务器主动推送到客户端有那些方式？](https://github.com/Renato-Z/brushTopic/issues/37)
+
 ## 第 11 天 (2020-03-20)
 
 1. [[html] 你对标签语义化的理解是什么？](https://github.com/Renato-Z/brushTopic/issues/31)
