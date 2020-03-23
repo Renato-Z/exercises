@@ -1,3 +1,13 @@
+## 第 13 天 (2020-03-23)
+
+1. [[html] html5 中的 form 怎么关闭自动完成？](https://github.com/Renato-Z/brushTopic/issues/38)
+
+2. [[css] ::before 和:after 中单冒号和双冒号的区别是什么，这两个伪元素有什么作用？](https://github.com/Renato-Z/brushTopic/issues/39)
+
+3. [[js] 说说你对 javascript 的作用域的理解](https://github.com/Renato-Z/brushTopic/issues/40)
+
+4. [[软技能] http 都有哪些状态码？](https://github.com/Renato-Z/brushTopic/issues/41)
+
 ## 第 12 天 (2020-03-23)
 
 1. [[html] 常见的浏览器内核都有哪些？并介绍下你对内核的理解](https://github.com/Renato-Z/brushTopic/issues/34)
