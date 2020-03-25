@@ -1,3 +1,13 @@
+## 第 19 天 (2020-03-25)
+
+1. [[html] 说说你对 html 中的置换元素和非置换元素的理解](https://github.com/Renato-Z/brushTopic/issues/62)
+
+2. [[css]css 的属性 content 有什么作用呢？有哪些场景可以用到？ ](https://github.com/Renato-Z/brushTopic/issues/63)
+
+3. [[js] "attribute"和"property"有什么不同？ ](https://github.com/Renato-Z/brushTopic/issues/64)
+
+4. [[软技能] 最近都流行些什么？你经常会浏览哪些网站？](https://github.com/Renato-Z/brushTopic/issues/65)
+
 ## 第 18 天 (2020-03-25)
 
 1. [[html] 怎样在页面上实现一个圆形的可点击区域？](https://github.com/Renato-Z/brushTopic/issues/58)
@@ -6,7 +16,7 @@
 
 3. [[js] 你理解的"use strict";是什么?使用它有什么优缺点？ ](https://github.com/Renato-Z/brushTopic/issues/60)
 
-4. [[软技能] 你如何看待团建的？你们团建一般都怎么实施？](https://github.com/Renato-Z/brushTopic/issues/62)
+4. [[软技能] 你如何看待团建的？你们团建一般都怎么实施？](https://github.com/Renato-Z/brushTopic/issues/61)
 
 ## 第 17 天 (2020-03-25)
 
