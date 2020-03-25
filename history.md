@@ -1,3 +1,23 @@
+## 第 18 天 (2020-03-25)
+
+1. [[html] 怎样在页面上实现一个圆形的可点击区域？](https://github.com/Renato-Z/brushTopic/issues/58)
+
+2. [[css] 什么是 FOUC？你是如何避免 FOUC 的？ ](https://github.com/Renato-Z/brushTopic/issues/59)
+
+3. [[js] 你理解的"use strict";是什么?使用它有什么优缺点？ ](https://github.com/Renato-Z/brushTopic/issues/60)
+
+4. [[软技能] 你如何看待团建的？你们团建一般都怎么实施？](https://github.com/Renato-Z/brushTopic/issues/62)
+
+## 第 17 天 (2020-03-25)
+
+1. [[html] 你认为 table 的作用和优缺点是什么呢？](https://github.com/Renato-Z/brushTopic/issues/54)
+
+2. [[css] 解释下 CSS sprites 的原理和优缺点分别是什么？ ](https://github.com/Renato-Z/brushTopic/issues/55)
+
+3. [[js] typeof('abc')和 typeof 'abc'都是 string, 那么 typeof 是操作符还是函数？ ](https://github.com/Renato-Z/brushTopic/issues/56)
+
+4. [[软技能] 说说你对 SVN 和 GIT 的理解和区别](https://github.com/Renato-Z/brushTopic/issues/57)
+
 ## 第 16 天 (2020-03-25)
 
 1. [[html] 元素的 alt 和 title 有什么区别？](https://github.com/Renato-Z/brushTopic/issues/50)
