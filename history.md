@@ -1,3 +1,13 @@
+## 第 20 天 (2020-03-25)
+
+1. [[html] 请描述 HTML 元素的显示优先级 ](https://github.com/Renato-Z/brushTopic/issues/66)
+
+2. [[css] 要让 Chrome 支持小于 12px 的文字怎么做？ ](https://github.com/Renato-Z/brushTopic/issues/67)
+
+3. [[js] 写一个验证身份证号的方法 ](https://github.com/Renato-Z/brushTopic/issues/68)
+
+4. [[软技能] 你会手写原生 js 代码吗？](https://github.com/Renato-Z/brushTopic/issues/69)
+
 ## 第 19 天 (2020-03-25)
 
 1. [[html] 说说你对 html 中的置换元素和非置换元素的理解](https://github.com/Renato-Z/brushTopic/issues/62)
