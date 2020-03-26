@@ -1,3 +1,13 @@
+## 第 21 天 (2020-03-26)
+
+1. [[html] 谈谈你对 input 元素中 readonly 和 disabled 属性的理解 ](https://github.com/Renato-Z/brushTopic/issues/75)
+
+2. [[css] 说说你对 line-height 是如何理解的？ ](https://github.com/Renato-Z/brushTopic/issues/76)
+
+3. [[js] 写一个方法验证是否为中文 ](https://github.com/Renato-Z/brushTopic/issues/77)
+
+4. [[软技能] 来说说你对重绘和重排的理解，以及如何优化？](https://github.com/Renato-Z/brushTopic/issues/78)
+
 ## 第 20 天 (2020-03-25)
 
 1. [[html] 请描述 HTML 元素的显示优先级 ](https://github.com/Renato-Z/brushTopic/issues/71)
