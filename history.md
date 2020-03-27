@@ -1,6 +1,6 @@
 ## 第 22 天 (2020-03-26)
 
-1. [[html] js 放在 html 的<body>和<head>有什么区别？ ](https://github.com/Renato-Z/brushTopic/issues/79)
+1. [[html] js 放在 html 的`<body>`和`<head>`有什么区别？ ](https://github.com/Renato-Z/brushTopic/issues/79)
 
 2. [[css] 说说浏览器解析 CSS 选择器的过程？ ](https://github.com/Renato-Z/brushTopic/issues/80)
 
