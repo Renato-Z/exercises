@@ -1,3 +1,13 @@
+## 第 22 天 (2020-03-26)
+
+1. [[html] js 放在 html 的<body>和<head>有什么区别？ ](https://github.com/Renato-Z/brushTopic/issues/79)
+
+2. [[css] 说说浏览器解析 CSS 选择器的过程？ ](https://github.com/Renato-Z/brushTopic/issues/80)
+
+3. [[js] 你对 new 操作符的理解是什么？手动实现一个 new 方法 ](https://github.com/Renato-Z/brushTopic/issues/81)
+
+4. [[软技能] 前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/Renato-Z/brushTopic/issues/82)
+
 ## 第 21 天 (2020-03-26)
 
 1. [[html] 谈谈你对 input 元素中 readonly 和 disabled 属性的理解 ](https://github.com/Renato-Z/brushTopic/issues/75)
