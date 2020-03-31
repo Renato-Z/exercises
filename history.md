@@ -1,3 +1,13 @@
+## 第 25 天 (2020-03-31)
+
+1. [[html] 请说说`<script>`、`<script async>`和`<script defer>`的区别 ](https://github.com/Renato-Z/brushTopic/issues/91)
+
+2. [[css] 在页面中的应该使用奇数还是偶数的字体？为什么呢？ ](https://github.com/Renato-Z/brushTopic/issues/92)
+
+3. [[js] 写一个判断设备来源的方法 ](https://github.com/Renato-Z/brushTopic/issues/93)
+
+4. [[软技能] 说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/Renato-Z/brushTopic/issues/94)
+
 ## 第 24 天 (2020-03-30)
 
 1. [[html] 说说你对属性 data-的理解 ](https://github.com/Renato-Z/brushTopic/issues/87)
