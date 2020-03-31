@@ -1,6 +1,16 @@
+## 第 24 天 (2020-03-30)
+
+1. [[html] 说说你对属性 data-的理解 ](https://github.com/Renato-Z/brushTopic/issues/87)
+
+2. [[css] 你有用过 CSS 预处理器吗？喜欢用哪个？原理是什么？ ](https://github.com/Renato-Z/brushTopic/issues/88)
+
+3. [[js] 如何快速让一个数组乱序，写出来 ](https://github.com/Renato-Z/brushTopic/issues/89)
+
+4. [[软技能] 你经历过老板要求兼容 IE 吗？IE 几？有什么感悟？](https://github.com/Renato-Z/brushTopic/issues/90)
+
 ## 第 23 天 (2020-03-30)
 
-1. [[html] 关于<form>标签的 enctype 属性你有哪些了解？ ](https://github.com/Renato-Z/brushTopic/issues/83)
+1. [[html] 关于`<form>`标签的 enctype 属性你有哪些了解？ ](https://github.com/Renato-Z/brushTopic/issues/83)
 
 2. [[css] 说说 CSS 的优先级是如何计算的？ ](https://github.com/Renato-Z/brushTopic/issues/84)
 
