@@ -1,3 +1,13 @@
+## 第 26 天 (2020-04-01)
+
+1. [[html] 解释下你对 GBK 和 UTF-8 的理解？并说说页面上产生乱码的可能原因 ](https://github.com/Renato-Z/brushTopic/issues/95)
+
+2. [[css] 说说你对 z-index 的理解 ](https://github.com/Renato-Z/brushTopic/issues/96)
+
+3. [[js] 说说 bind、call、apply 的区别？并手写实现一个 bind 的方法 ](https://github.com/Renato-Z/brushTopic/issues/97)
+
+4. [[软技能] 你对 Git 的 branch 及工作流的理解是什么？](https://github.com/Renato-Z/brushTopic/issues/98)
+
 ## 第 25 天 (2020-03-31)
 
 1. [[html] 请说说`<script>`、`<script async>`和`<script defer>`的区别 ](https://github.com/Renato-Z/brushTopic/issues/91)
