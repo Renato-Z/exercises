@@ -1,3 +1,13 @@
+## 第 27 天 (2020-04-02)
+
+1. [[html] 说说你对影子(Shadow)DOM 的了解 ](https://github.com/Renato-Z/brushTopic/issues/99)
+
+2. [[css] 怎样修改 chrome 记住密码后自动填充表单的黄色背景？ ](https://github.com/Renato-Z/brushTopic/issues/100)
+
+3. [[js] 说说你对 arguments 的理解，它是数组吗？ ](https://github.com/Renato-Z/brushTopic/issues/101)
+
+4. [[软技能] 你为什么离职呢？](https://github.com/Renato-Z/brushTopic/issues/102)
+
 ## 第 26 天 (2020-04-01)
 
 1. [[html] 解释下你对 GBK 和 UTF-8 的理解？并说说页面上产生乱码的可能原因 ](https://github.com/Renato-Z/brushTopic/issues/95)
