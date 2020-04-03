@@ -1,3 +1,15 @@
+> 后面会逐渐放缓速度，提升回答的质量
+
+## 第 28 天 (2020-04-03)
+
+1. [[html] 说说你对`<meta>`标签的理解 ](https://github.com/Renato-Z/brushTopic/issues/103)
+
+2. [[css] rgba()和 opacity 这两个的透明效果有什么区别呢？ ](https://github.com/Renato-Z/brushTopic/issues/104)
+
+3. [[js] 解释下这段代码的意思 ](https://github.com/Renato-Z/brushTopic/issues/105)
+
+4. [[软技能] 在浏览器中输入 url 到页面显示出来的过程发生了什么？？](https://github.com/Renato-Z/brushTopic/issues/106)
+
 ## 第 27 天 (2020-04-02)
 
 1. [[html] 说说你对影子(Shadow)DOM 的了解 ](https://github.com/Renato-Z/brushTopic/issues/99)
