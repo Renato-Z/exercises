@@ -1,3 +1,13 @@
+## 第 29 天 (2020-04-20)[这段时间较忙。。]
+
+1. [[html] 你了解什么是无障碍 web（WAI）吗？在开发过程中要怎么做呢？ ](https://github.com/Renato-Z/brushTopic/issues/107)
+
+2. [[css] 请描述 css 的权重计算规则 ](https://github.com/Renato-Z/brushTopic/issues/108)
+
+3. [[js] 写一个获取数组的最大值、最小值的方法 ](https://github.com/Renato-Z/brushTopic/issues/109)
+
+4. [[软技能] 在工作中能让你最有成就感的是什么？并介绍下你最得意的作品吧](https://github.com/Renato-Z/brushTopic/issues/1110)
+
 > 后面会逐渐放缓速度，提升回答的质量
 
 ## 第 28 天 (2020-04-03)
