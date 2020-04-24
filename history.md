@@ -1,3 +1,13 @@
+## 第 31 天 (2020-04-24)
+
+1. [[html] DOM 和 BOM 有什么区别？ ](https://github.com/Renato-Z/brushTopic/issues/115)
+
+2. [[css] 让网页的字体变得清晰，变细用 CSS 怎么做？ ](https://github.com/Renato-Z/brushTopic/issues/116)
+
+3. [[js] 写一个方法把 0 和 1 互转（0 置 1，1 置 0） ](https://github.com/Renato-Z/brushTopic/issues/117)
+
+4. [[软技能] 对于有压力时，你是怎么抗压的？](https://github.com/Renato-Z/brushTopic/issues/118)
+
 ## 第 30 天 (2020-04-23)
 
 1. [[html] 网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些 ](https://github.com/Renato-Z/brushTopic/issues/111)
@@ -6,7 +16,7 @@
 
 3. [[js] 写一个方法判断字符串是否为回文字符串 ](https://github.com/Renato-Z/brushTopic/issues/113)
 
-4. [[软技能] 解释下 CRLF 是什么？](https://github.com/Renato-Z/brushTopic/issues/1114)
+4. [[软技能] 解释下 CRLF 是什么？](https://github.com/Renato-Z/brushTopic/issues/114)
 
 ## 第 29 天 (2020-04-20)[这段时间较忙。。]
 
