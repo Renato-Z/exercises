@@ -1,5 +1,15 @@
 ## 第 31 天 (2020-04-24)
 
+1. [[html] 说说你对 HTML 元素的显示优先级的理解 ](https://github.com/Renato-Z/brushTopic/issues/119)
+
+2. [[css] 说下 line-height 三种赋值方式有何区别？ ](https://github.com/Renato-Z/brushTopic/issues/120)
+
+3. [[js] 造成内存泄漏的操作有哪些？ ](https://github.com/Renato-Z/brushTopic/issues/121)
+
+4. [[软技能] 你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/Renato-Z/brushTopic/issues/122)
+
+## 第 31 天 (2020-04-24)
+
 1. [[html] DOM 和 BOM 有什么区别？ ](https://github.com/Renato-Z/brushTopic/issues/115)
 
 2. [[css] 让网页的字体变得清晰，变细用 CSS 怎么做？ ](https://github.com/Renato-Z/brushTopic/issues/116)
