@@ -1,4 +1,4 @@
-## 第 31 天 (2020-04-24)
+## 第 32 天 (2020-04-30)
 
 1. [[html] 说说你对 HTML 元素的显示优先级的理解 ](https://github.com/Renato-Z/brushTopic/issues/119)
 
